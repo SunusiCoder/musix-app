@@ -1,0 +1,16 @@
+export const genres = [
+  { title: 'Pop', value: 'POP' },
+  { title: 'Hip-Hop', value: 'HIP_HOP_RAP' },
+  { title: 'Dance', value: 'DANCE' },
+  { title: 'Electronics', value: 'ELECTRONICS' },
+  { title: 'Soul', value: 'SOUL_RNB' },
+  { title: 'Alternative', value: 'ALTERNATIVE' },
+  { title: 'Rock', value: 'ROCK' },
+  { title: 'Latin', value: 'LATIN' },
+  { title: 'Firm', value: 'FIRM_TV' },
+  { title: 'Country', value: 'COUNTRY' },
+  { title: 'Worlwide', value: 'WORLWIDE' },
+  { title: 'Raggae', value: 'RAGGAE_DANCE_HALL' },
+  { title: 'House', value: 'HOUSE' },
+  { title: 'K-Pop', value: 'K-POP' },
+];
